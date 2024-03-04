@@ -1,0 +1,18 @@
+.r-container {
+  gap: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.r-head{
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 640px) {
+  .r-head{
+  align-items: center;
+  }
+  .r-buttons{
+    position: initial;
+  }
+}
