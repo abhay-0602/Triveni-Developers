@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     domain="dev-deagq0uc68146l8y.us.auth0.com"
     clientId="lfNabEQlIHleYf6G6EZppZZvomJCpBcj"
     authorizationParams={{
-      redirect_uri:"http://localhost:5173"
+      redirect_uri:"https://triveni-developers.vercel.app"
     }}
     audience="http://localhost:8000"
     scope="openid profile email"
