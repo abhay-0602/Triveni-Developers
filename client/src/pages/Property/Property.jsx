@@ -114,7 +114,7 @@ const Property = () => {
               </div>
             </div>
             {/* description */}
-
+           
             <span className="secondaryText" style={{ textAlign: "justify" }}>
               {data?.description}
             </span>
