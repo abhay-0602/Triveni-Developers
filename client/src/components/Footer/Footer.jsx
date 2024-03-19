@@ -18,7 +18,7 @@ const Footer = () => {
           <span className="secondaryText">No.807, Gold Crest Business Center, L.T. Road, Borivali West, Mumbai-400092.</span>
           <div className="flexCenter f-menu">
             <span>Property</span>
-            <span>Services</span>
+            <span>Services  </span>
             <span>Product</span>
             <span>About Us</span>
           </div>
