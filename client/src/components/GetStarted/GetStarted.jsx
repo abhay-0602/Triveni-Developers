@@ -13,6 +13,7 @@ const GetStarted = () => {
           </span>
           <button className="button" href>
             <a href="mailto:abhaypadhiyar999@gmail.com">Get Started</a>
+            <iframe src="F:\Final project\client\public\Triveni Aster_Ebrochure.pdf"></iframe>
           </button>
         </div>
       </div>
