@@ -25,7 +25,7 @@ const Footer = () => {
           </div>
       
         </div>
-        <center>©Triveni Developer</center>
+      
       </div>
     </div>
   );
