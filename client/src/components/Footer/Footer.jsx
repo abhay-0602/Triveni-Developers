@@ -23,6 +23,7 @@ const Footer = () => {
             <span>About Us</span>
 
           </div>
+          <center>©Triveni Developer</center>
         </div>
       </div>
     </div>
